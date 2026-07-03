@@ -81,14 +81,6 @@ id.rendinandawibisana.obatime
 - `FOREGROUND_SERVICE` — menjalankan layanan Text-to-Speech saat alarm berbunyi
 - `INTERNET` — mengambil data kualitas udara dari API eksternal
 
-## 🔗 CARA MENJALANKAN PROYEK
-
-1. Clone atau ekstrak proyek ini.
-2. Buka proyek menggunakan **Android Studio** (disarankan versi terbaru).
-3. Tunggu proses *Gradle Sync* selesai.
-4. Sambungkan emulator atau perangkat fisik (Android 8.0 / API 26 ke atas).
-5. Jalankan aplikasi melalui tombol **Run ▶**.
-
 ---
 
-*Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah Pemrograman Mobile — Rendi Nanda Wibisana, 231011400199, Kelas 06TPLP004.*
+*Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah Mobile Programming — Rendi Nanda Wibisana, 231011400199, Kelas 06TPLP004.*
